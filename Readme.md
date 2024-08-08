@@ -12,14 +12,17 @@
 
 # ***PRACTICE FILES***
 
-## LEVELS
+## DIFFICULT LEVELS
 
 - <a href="https://github.com/jalcantara777/HackerRank/tree/main/Basic">Basic</a>
+
+- <a href="https://github.com/jalcantara777/HackerRank/tree/main/Medium">Medium</a>
 
 ## CONTACT
 - Name: José Alcántara 
 <br>
 <img src="images/Avatar_DA.png" alt="Imagen no encontrada" height=200px>
+
 - Mail: jalcantara777@yahoo.com
 <br>
 <img src="images/NumWhatsapp2.jpg" alt="Imagen no encontrada" height=50px>
