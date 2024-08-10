@@ -18,7 +18,12 @@
 
 - <a href="https://github.com/jalcantara777/HackerRank/tree/main/Medium">Medium</a>
 
-## CONTACT
+# ***AWARDS***
+<p align="center">
+<img src="images/Str_challenges_RESOLVED.png"  height=200>
+</p>
+
+# ***CONTACT***
 - Name: José Alcántara 
 <br>
 <img src="images/Avatar_DA.png" alt="Imagen no encontrada" height=200px>
