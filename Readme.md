@@ -18,6 +18,8 @@
 
 - <a href="https://github.com/jalcantara777/HackerRank/tree/main/Medium">Medium</a>
 
+- <a href="https://github.com/jalcantara777/HackerRank/tree/main/Hard">Hard</a>
+
 # ***AWARDS***
 <p align="center">
 <img src="images/Str_challenges_RESOLVED.png"  height=200>
