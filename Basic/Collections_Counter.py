@@ -23,7 +23,10 @@ for i in range(len(Counter(lst_sell_shoesz).keys())):
   shoesz_req=list(Counter(lst_sell_shoesz).keys())[i]
   if list(Counter(shoesize_lst).keys()).count(shoesz_req)>0:
     shoesz_stk=list(Counter(shoesize_lst).values())[list(Counter(shoesize_lst).keys()).index(shoesz_req)]
-    for j in range(shoesz_stk):
-      shoepx=lst_sell_price[lst_sell_shoesz.index(shoesz_req,j)]
+    indexes = [i for i, x in enumerate(lst_sell_shoesz) if x == shoesz_req]
+    shoesz_reqqty=lst_sell_shoesz.count(shoesz_req)
+    shoesz_sellqty=min(shoesz_stk,shoesz_reqqty)
+    for j in range(shoesz_sellqty):
+      shoepx=lst_sell_price[indexes[j]]
       tot_sell+=shoepx
 print(tot_sell)
