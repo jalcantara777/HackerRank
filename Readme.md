@@ -27,6 +27,9 @@
 <p align="center">
 <img src="images/Itertools_challenges_RESOLVED.png"  height=200>
 </p>
+<p align="center">
+<img src="images/Math_challenges_RESOLVED.png"  height=200>
+</p>
 
 # ***CONTACT***
 - Name: José Alcántara 
