@@ -1,0 +1,7 @@
+m=int(input())
+set_m=set(list(int(x) for x in input().split()))
+n=int(input())
+set_n=set(list(int(x) for x in input().split()))
+lstcalc=list(set_m.symmetric_difference(set_n))
+lstcalc.sort()
+for elem in lstcalc: print(elem)
