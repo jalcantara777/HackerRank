@@ -39,6 +39,9 @@
 <p align="center">
 <img src="images/ErrorsandExceptions_challenges_RESOLVED.png"  height=200>
 </p>
+<p align="center">
+<img src="images/Sets_challenges_RESOLVED.png"  height=200>
+</p>
 
 # ***CONTACT***
 - Name: José Alcántara 
