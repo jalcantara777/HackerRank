@@ -48,6 +48,9 @@
 <p align="center">
 <img src="images/Classes_challenges_RESOLVED.png"  height=200>
 </p>
+<p align="center">
+<img src="images/Regex_Parsing_challenges_RESOLVED.png"  height=200>
+</p>
 
 # ***CONTACT***
 - Name: José Alcántara 
