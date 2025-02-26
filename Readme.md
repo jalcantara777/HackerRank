@@ -57,6 +57,9 @@
 <p align="center">
 <img src="images/Numpy_challenges_RESOLVED.png"  height=200>
 </p>
+<p align="center">
+<img src="images/XML_challenges_RESOLVED.png"  height=200>
+</p>
 
 # ***CONTACT***
 - Name: José Alcántara 
